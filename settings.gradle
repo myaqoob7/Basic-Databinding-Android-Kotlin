@@ -1,0 +1,2 @@
+rootProject.name = "Basic Databinding Kotlin"
+include ':app'

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Databinding Kotlin</string>
+    <string name="show_data">Show Data</string>
+</resources>
