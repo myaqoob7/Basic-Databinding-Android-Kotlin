@@ -1,9 +1,9 @@
-package com.zekab.basicdatabindingkotlin
+package com.orbitalsonic.basicdatabindingkotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.zekab.basicdatabindingkotlin.databinding.ActivityMainBinding
+import com.orbitalsonic.basicdatabindingkotlin.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
